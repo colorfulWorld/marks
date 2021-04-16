@@ -15,3 +15,7 @@
 1. PWA
     1. [PWA之 workbox 学习](https://segmentfault.com/a/1190000019281388?utm_source=tag-newest)
     2. [workbox官网](https://developers.google.cn/web/tools/workbox/)
+
+## SEO优化
+1. Vue
+     1. [vue单页应用SEO优化](ttps://blog.csdn.net/msg1254765721/article/details/90090225)
