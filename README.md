@@ -19,3 +19,6 @@
 ## SEO优化
 1. Vue
      1. [使用prerender-spa-plugin预渲染](https://blog.csdn.net/msg1254765721/article/details/90090225)
+
+## 前端精读周刊
+1. [黄子毅](https://github.com/ascoders/weekly)
