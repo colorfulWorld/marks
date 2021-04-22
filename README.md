@@ -10,8 +10,6 @@
 ## 手册
 1. [Babel 插件手册-中文](https://mrgaogang.github.io/babel/babel-hooks.html)
 
-## Vue
-1. [Vue技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 ## 在线编译工具
 1. [抽象语法树结构](https://astexplorer.net/)
