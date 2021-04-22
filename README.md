@@ -7,6 +7,9 @@
 ## 手册
 1. [Babel 插件手册-中文](https://mrgaogang.github.io/babel/babel-hooks.html)
 
+## Vue
+1. [Vue技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+
 ## 在线编译工具
 1. [抽象语法树结构](https://astexplorer.net/)
 2. [Babel](https://babeljs.io/repl/#?browsers=&build=&builtIns=false&spec=false&loose=false&code_lz=MYGwhgzhAEBmB2BvAvkA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=true&fileSize=false&timeTravel=false&sourceType=module&lineWrap=false&presets=es2015%2Creact%2Cstage-2&prettier=true&targets=&version=7.13.15&externalPlugins=)
