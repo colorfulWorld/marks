@@ -1,5 +1,8 @@
 # 常用书签
 
+## 基础
+1. [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN#url)
+
 ## Vue
 1. [Vue技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 2. [精读《DOM diff 原理详解》](https://github.com/ascoders/weekly/blob/v2/190.%E7%B2%BE%E8%AF%BB%E3%80%8ADOM%20diff%20%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E3%80%8B.md)
@@ -27,4 +30,3 @@
 
 ## 前端周刊
 1. [黄子毅](https://github.com/ascoders/weekly)
-2. [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN#url)
