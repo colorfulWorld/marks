@@ -7,6 +7,7 @@
 1. [Vue技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 2. [精读《DOM diff 原理详解》](https://github.com/ascoders/weekly/blob/v2/190.%E7%B2%BE%E8%AF%BB%E3%80%8ADOM%20diff%20%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E3%80%8B.md)
 3. [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
+4. [vue-design](http://hcysun.me/vue-design/zh/)
 
 ## 网络协议
 1. [5分钟看懂HTTP3](https://www.infoq.cn/article/whcobxfbgtphy7ijv1kp)
