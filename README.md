@@ -2,6 +2,7 @@
 
 ## 基础
 1. [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN#url)
+2. [闭包与内存泄漏](https://segmentfault.com/a/1190000039132414)
 
 ## Vue
 1. [Vue技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
