@@ -15,6 +15,7 @@
 
 ## 手册
 1. [Babel 插件手册-中文](https://mrgaogang.github.io/babel/babel-hooks.html)
+2. [TypeScript入门教程](https://ts.xcatliu.com/)
 
 
 ## 在线编译工具
