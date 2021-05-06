@@ -17,6 +17,7 @@
 1. [Babel 插件手册-中文](https://mrgaogang.github.io/babel/babel-hooks.html)
 2. [TypeScript入门教程](https://ts.xcatliu.com/)
 3. [Eslint](http://eslint.cn/docs/rules/)
+4. [HTML](https://html.spec.whatwg.org/multipage/webappapis.html##event-loop-processing-model)
 
 
 ## 在线编译工具
