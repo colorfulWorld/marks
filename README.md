@@ -14,8 +14,12 @@
 
 ## React
 1. [React技术揭秘](https://react.iamkasong.com/#%E5%AF%BC%E5%AD%A6%E8%A7%86%E9%A2%91)
+
 ## 网络协议
 1. [5分钟看懂HTTP3](https://www.infoq.cn/article/whcobxfbgtphy7ijv1kp)
+
+## 项目管理
+1. [公共模块管理之 Git Submodule 使用总结](https://cloud.tencent.com/developer/article/1803958)
 
 ## 手册
 1. [Babel 插件手册-中文](https://mrgaogang.github.io/babel/babel-hooks.html)
