@@ -20,6 +20,7 @@
 
 ## 项目管理
 1. [公共模块管理之 Git Submodule 使用总结](https://cloud.tencent.com/developer/article/1803958)
+2. [yarn Workspaces](https://cloud.tencent.com/developer/section/1477773)
 
 ## 手册
 1. [Babel 插件手册-中文](https://mrgaogang.github.io/babel/babel-hooks.html)
