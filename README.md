@@ -40,6 +40,9 @@
     1. [PWA之 workbox 学习](https://segmentfault.com/a/1190000019281388?utm_source=tag-newest)
     2. [workbox官网](https://developers.google.cn/web/tools/workbox/)
 
+## 性能优化
+1. [缓存利用](https://www.haorooms.com/post/cache_huancunliyong)
+2. [网站性能优化实战——从12.67s到1.06s的故事](https://imweb.io/topic/5b6fd3c13cb5a02f33c013bd)
 ## SEO优化
 1. Vue
      1. [使用prerender-spa-plugin预渲染](https://juejin.cn/post/6844903689656893454)
