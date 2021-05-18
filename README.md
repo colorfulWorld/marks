@@ -18,7 +18,7 @@
 ## 网络协议
 1. [5分钟看懂HTTP3](https://www.infoq.cn/article/whcobxfbgtphy7ijv1kp)
 
-## 项目管理
+## 项目工程化
 1. [公共模块管理之 Git Submodule 使用总结](https://cloud.tencent.com/developer/article/1803958)
 2. [yarn Workspaces](https://cloud.tencent.com/developer/section/1477773)
 3. [精度Monorepo的优势](https://www.cnblogs.com/ascoders/p/10854872.html)
