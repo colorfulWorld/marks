@@ -43,6 +43,9 @@
 ## 性能优化
 1. [缓存利用](https://www.haorooms.com/post/cache_huancunliyong)
 2. [网站性能优化实战——从12.67s到1.06s的故事](https://imweb.io/topic/5b6fd3c13cb5a02f33c013bd)
+3. [浏览器渲染过程与性能优化](https://segmentfault.com/a/1190000021517583)
+
+
 ## SEO优化
 1. Vue
      1. [使用prerender-spa-plugin预渲染](https://juejin.cn/post/6844903689656893454)
