@@ -20,10 +20,11 @@
 2. [TCP&UDP](https://github.com/lgwebdream/FE-Interview/issues/1127)
 3. [http 请求从发起请求到收到响应的全部过程](https://github.com/lgwebdream/FE-Interview/issues/1117)
 
-## 项目工程化
+## 前端工程化
 1. [公共模块管理之 Git Submodule 使用总结](https://cloud.tencent.com/developer/article/1803958)
 2. [yarn Workspaces](https://cloud.tencent.com/developer/section/1477773)
 3. [精度Monorepo的优势](https://www.cnblogs.com/ascoders/p/10854872.html)
+4. [大公司里怎样开发和部署前端代码](https://www.zhihu.com/question/20790576)
 
 ## 手册
 1. [Babel 插件手册-中文](https://mrgaogang.github.io/babel/babel-hooks.html)
