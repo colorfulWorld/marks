@@ -23,7 +23,7 @@
 ## 前端工程化
 1. [公共模块管理之 Git Submodule 使用总结](https://cloud.tencent.com/developer/article/1803958)
 2. [yarn Workspaces](https://cloud.tencent.com/developer/section/1477773)
-3. [精度Monorepo的优势](https://www.cnblogs.com/ascoders/p/10854872.html)
+3. [精读Monorepo的优势](https://www.cnblogs.com/ascoders/p/10854872.html)
 4. [大公司里怎样开发和部署前端代码](https://www.zhihu.com/question/20790576)
 
 ## 手册
