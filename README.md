@@ -10,6 +10,7 @@
 2. [精读《DOM diff 原理详解》](https://github.com/ascoders/weekly/blob/v2/190.%E7%B2%BE%E8%AF%BB%E3%80%8ADOM%20diff%20%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E3%80%8B.md)
 3. [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 4. [vue-design](http://hcysun.me/vue-design/zh/)
+5. [Vue2.x 和 Vue3.x 渲染器的 diff 算法](https://github.com/lgwebdream/FE-Interview/issues/1130)
 
 
 ## React
