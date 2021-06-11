@@ -43,6 +43,7 @@
 1. PWA
     1. [PWA之 workbox 学习](https://segmentfault.com/a/1190000019281388?utm_source=tag-newest)
     2. [workbox官网](https://developers.google.cn/web/tools/workbox/)
+    3. [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
 
 ## 性能优化
 1. [缓存利用](https://www.haorooms.com/post/cache_huancunliyong)
