@@ -27,18 +27,6 @@
 3. [精读Monorepo的优势](https://www.cnblogs.com/ascoders/p/10854872.html)
 4. [大公司里怎样开发和部署前端代码](https://www.zhihu.com/question/20790576)
 
-## 手册
-1. [Babel 插件手册-中文](https://mrgaogang.github.io/babel/babel-hooks.html)
-2. [Babel 手册](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
-3. [TypeScript入门教程](https://ts.xcatliu.com/)
-4. [Eslint](http://eslint.cn/docs/rules/)
-5. [HTML](https://html.spec.whatwg.org/multipage/webappapis.html##event-loop-processing-model)
-
-
-## 在线编译工具
-1. [抽象语法树结构](https://astexplorer.net/)
-2. [Babel](https://babeljs.io/repl/#?browsers=&build=&builtIns=false&spec=false&loose=false&code_lz=MYGwhgzhAEBmB2BvAvkA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=true&fileSize=false&timeTravel=false&sourceType=module&lineWrap=false&presets=es2015%2Creact%2Cstage-2&prettier=true&targets=&version=7.13.15&externalPlugins=)
-
 ## service worker
 1. PWA
     1. [PWA之 workbox 学习](https://segmentfault.com/a/1190000019281388?utm_source=tag-newest)
@@ -54,4 +42,19 @@
 ## SEO优化
 1. Vue
      1. [使用prerender-spa-plugin预渲染](https://juejin.cn/post/6844903689656893454)
+
+## 后端
+1. [Python学习](https://github.com/Yixiaohan/codeparkshare)
+
+## 手册
+1. [Babel 插件手册-中文](https://mrgaogang.github.io/babel/babel-hooks.html)
+2. [Babel 手册](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
+3. [TypeScript入门教程](https://ts.xcatliu.com/)
+4. [Eslint](http://eslint.cn/docs/rules/)
+5. [HTML](https://html.spec.whatwg.org/multipage/webappapis.html##event-loop-processing-model)
+
+## 在线编译工具
+1. [抽象语法树结构](https://astexplorer.net/)
+2. [Babel](https://babeljs.io/repl/#?browsers=&build=&builtIns=false&spec=false&loose=false&code_lz=MYGwhgzhAEBmB2BvAvkA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=true&fileSize=false&timeTravel=false&sourceType=module&lineWrap=false&presets=es2015%2Creact%2Cstage-2&prettier=true&targets=&version=7.13.15&externalPlugins=)
+
 
