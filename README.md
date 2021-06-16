@@ -19,6 +19,7 @@
 ## 网络协议
 1. [5分钟看懂HTTP3](https://www.infoq.cn/article/whcobxfbgtphy7ijv1kp)
 2. [TCP&UDP](https://github.com/lgwebdream/FE-Interview/issues/1127)
+2. [如何理解UDP 和 TCP? 区别? 应用场景](https://network.51cto.com/art/202105/662343.htm)
 3. [http 请求从发起请求到收到响应的全部过程](https://github.com/lgwebdream/FE-Interview/issues/1117)
 
 ## 前端工程化
