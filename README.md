@@ -29,6 +29,7 @@
 2. [yarn Workspaces](https://cloud.tencent.com/developer/section/1477773)
 3. [精读Monorepo的优势](https://www.cnblogs.com/ascoders/p/10854872.html)
 4. [大公司里怎样开发和部署前端代码](https://www.zhihu.com/question/20790576)
+5. [规范化git commit信息](https://blog.dteam.top/posts/2019-04/%E8%A7%84%E8%8C%83%E5%8C%96git-commit%E4%BF%A1%E6%81%AF.html)
 
 ## service worker
 1. PWA
