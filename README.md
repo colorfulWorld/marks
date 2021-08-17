@@ -16,6 +16,9 @@
 ## React
 1. [React技术揭秘](https://react.iamkasong.com/#%E5%AF%BC%E5%AD%A6%E8%A7%86%E9%A2%91)
 
+## Shell
+1. [Fresh Shell 3：基于 Node.js 的 JavaScript「壳中壳」](https://rikumi.dev/2020/03/06/fresh-shell-3/)
+
 ## 网络协议
 1. [5分钟看懂HTTP3](https://www.infoq.cn/article/whcobxfbgtphy7ijv1kp)
 2. [HTTP/3 新特性，为什么选择使用 UDP 协议](https://network.51cto.com/art/202105/662173.htm)
