@@ -36,6 +36,7 @@
 5. [规范化git commit信息](https://blog.dteam.top/posts/2019-04/%E8%A7%84%E8%8C%83%E5%8C%96git-commit%E4%BF%A1%E6%81%AF.html)
 6. [如何引入Tailwindcss](https://cloud.tencent.com/developer/article/2077144)
 7. [webpack配置项](https://drylint.com/Webpack/webpack%20Configuration.html#%E9%85%8D%E7%BD%AE%E9%A1%B9)
+8. [深入理解 Webpack 打包上](https://zhuanlan.zhihu.com/p/66212099)
 
 ## service worker
 1. PWA
