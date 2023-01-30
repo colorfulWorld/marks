@@ -20,6 +20,10 @@
 ## Shell
 1. [Fresh Shell 3：基于 Node.js 的 JavaScript「壳中壳」](https://rikumi.dev/2020/03/06/fresh-shell-3/)
 
+## 3D
+1. [Three.js](http://www.webgl3d.cn/Three.js/)
+2. [VR全景看房](https://juejin.cn/post/6973865268426571784)
+
 ## 网络协议
 1. [5分钟看懂HTTP3](https://www.infoq.cn/article/whcobxfbgtphy7ijv1kp)
 2. [HTTP/3 新特性，为什么选择使用 UDP 协议](https://network.51cto.com/art/202105/662173.htm)
