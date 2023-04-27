@@ -12,6 +12,7 @@
 3. [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 4. [vue-design](http://hcysun.me/vue-design/zh/)
 5. [Vue2.x 和 Vue3.x 渲染器的 diff 算法](https://github.com/lgwebdream/FE-Interview/issues/1130)
+6. [使用ts+vue3开发高仿知乎专栏文档](http://docs.vikingship.xyz/vue3-basic.html#%E9%85%8D%E7%BD%AE-vue3-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83)
 
 
 ## React
